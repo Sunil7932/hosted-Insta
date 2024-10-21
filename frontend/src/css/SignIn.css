@@ -1,0 +1,31 @@
+.signIn{
+    background-image: url("https://img.freepik.com/free-vector/instagram-background-gradient-colors_23-2147835128.jpg");
+    background-size: cover;
+    flex:1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.loginForm{
+    background-color: #ffffff4d;
+    padding: 30px;
+    border: 1px solid rgb(129, 121, 121);
+    border-radius: 1px;
+}
+.loginForm2{
+    background-color: #ffffff4d;
+    padding: 20px;
+    margin-top: 5px;
+    border: 1px solid rgb(129, 121, 121);
+    border-radius: 1px;
+}
+#login-btn{
+    background-color: #1773EA;
+    border: none;
+    color: white;
+    border-radius: 3px;
+    font-weight: bold;
+    padding:5px 10px; 
+    cursor: pointer;
+    margin-top: 8px;
+}
